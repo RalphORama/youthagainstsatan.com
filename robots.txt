@@ -93,3 +93,5 @@ DisallowAITraining: /
 Content-Usage: ai=n
 Content-Signal: search=yes, ai-input=no, ai-train=no
 Allow: /
+
+Sitemap: https://youthagainstsatan.com/sitemap.xml
